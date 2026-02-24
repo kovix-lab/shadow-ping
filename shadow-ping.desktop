@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Shadow-Ping
+Comment=Secure IP and URL Locator
+Exec=/home/kovix/Documents/Shadow-Ping/venv/bin/python /home/kovix/Documents/Shadow-Ping/main.py
+Icon=/home/kovix/Documents/Shadow-Ping/icons/icon.png
+Terminal=false
+Type=Application
+Categories=Network;Security;Utility;
