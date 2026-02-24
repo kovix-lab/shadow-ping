@@ -15,12 +15,8 @@
    `git clone https://github.com/kovix-lab/shadow-ping.git`
 2. Move into the directory:
    `cd shadow-ping`
-3. Create an isolated virtual environment:
-   `python -m venv venv`
-4. Activate the environment:
-   `source venv/bin/activate`
-5. Install the required dependencies:
-   `pip install -r requirements.txt`
+3. Run the installer:
+   `./install.sh`
 
 ### Usage
 
